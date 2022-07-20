@@ -49,6 +49,7 @@ const TransactionHistory = () => {
             </p>
             <span className="text-primary text-sm">
               <a
+                rel="noreferrer"
                 target="_blank"
                 href={`https://goerli.etherscan.io/tx/${hash}`}
               >

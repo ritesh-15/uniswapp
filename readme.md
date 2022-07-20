@@ -39,6 +39,10 @@ A uniswap clone in which you can transfer ethereum crypto currency in anywhere i
     * 8. Check your transaction history
     * 9. Check your transaction details
 
+## Preview
+
+[Click here to preview](https://uniswap-ritesh-15.vercel.app/) the app in your browser.
+
 ## Screen Shots
 
 ![](image_2.png)
